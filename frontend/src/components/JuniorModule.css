@@ -1,0 +1,30 @@
+.custom-card {
+  font-size: 1.05rem; /* Increase font size */
+  padding: 20px;
+  background-color: #292F36;
+  border: 1px solid #3A3F44;
+  color: #E6EDF3;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+
+
+.custom-card .card-title {
+  font-size: 1.4rem;
+  color: #58A6FF;
+}
+
+.custom-card a {
+  font-size: 1.05rem;
+  text-decoration: none;
+}
+
+.custom-card ul {
+  padding-left: 1.2rem;
+}
+.custom-card:hover {
+  transform: scale(1.01);
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+

@@ -1,0 +1,12 @@
+.card-header {
+  background-color: #f1f8ff;
+  color: #1565c0;
+}
+
+.card-body a:hover {
+  text-decoration: underline;
+}
+
+.progress-bar {
+  font-weight: bold;
+}
